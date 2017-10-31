@@ -1,7 +1,7 @@
 # data-512-a2: Bias in data
 
 ## Goal
-The goal of this project is to explore the concept of bias by analyzing the data of policical articles from different countries on Wikepidia. The project is expected to in two aspects: 
+The goal of this project is to explore the concept of bias by analyzing the data of policical articles from different countries on Wikepidia. The project is supposed to perform an analysis in two aspects: existence and quality of policial articles for each country.
 
 ## License of the source data and Wikimedia Foundation terms of use
 1. Wikimedia REST API is licensed under the CC-BY-SA 3.0 and GFDL licenses
@@ -23,23 +23,22 @@ The Pageviews API:
 `https://wikimedia.org/api/rest_v1/#!/Pageviews_data/get_metrics_pageviews_aggregate_project_access_agent_granularity_start_end`
 
 ## Data file description
-### There are eight fields in the final data file (en-wikipedia_traffic_200801-201709.csv):
-#### year:
-The values of this field are integers in four-digit format (YYYY)
-#### month:
+### After removing the rows that do not have matching data, there are five fields in the final data file (final_data.csv):
+#### country:
+Data Type: String
+
+#### article_name:
 The values of this field are integers in two-digit format (MM)
-#### pagecount_all_views：
+#### revision_id：
 The values of this field are integers which indicate the number of views from the legacy Pagecounts API on both desktop and mobile during given months.
-#### pagecount_desktop_views:
+#### article_quality:
 The values of this field are integers which indicate the number of views from the legacy Pagecounts API on the desktop during given months.
-#### pagecount_mobile_views:
+#### population:
 The values of this field are integers which indicate the number of views from the legacy Pagecounts API on mobile during given months.
-#### pageview_all_views：
-The values of this field are integers which indicate the number of views from the the Pageviews API on both desktop and mobile during given months.
-#### pageview_desktop_views：
-The values of this field are integers which indicate the number of views from the the Pageviews API on the desktop during given months.
-#### pageview_mobile_views：
-The values of this field are integers which indicate the number of views from the the Pageviews API on mobile during given months.
+
 
 ## Special considerations of data
 In the process of collecting the data from Pageview API, we only focus on organic (user) traffic. Thus, traffic data by web crawlers or spiders was excluded by filtering agent type to user, while data from the Pagecounts API does not filter on agent.
+
+## Writeup
+Please check the notebook.
