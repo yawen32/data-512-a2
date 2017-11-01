@@ -31,13 +31,11 @@ Download [here](http://www.prb.org/RawData.axd?ind=14&fmt=14&tf=76&loc=34235%2c2
 
 For more information on this License, check [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-2. Figshare
+2. Wikimedia's [Privacy Policy](https://wikimediafoundation.org/wiki/Privacy_policy) and [Terms of Use](https://wikimediafoundation.org/wiki/Terms_of_Use/en)
 
-[Privacy Policy](https://figshare.com/privacy) and [Terms of Use](https://figshare.com/terms)
+3. Figshare [Privacy Policy](https://figshare.com/privacy) and [Terms of Use](https://figshare.com/terms)
 
-3. Population Research Bureau
-
-[Privacy Policy](http://www.prb.org/DataFinder/Topic/~/link.aspx?_id=11A2A1677D184053936CE705FAEDEC1D&_z=z)
+4. Population Research Bureau [Privacy Policy](http://www.prb.org/DataFinder/Topic/~/link.aspx?_id=11A2A1677D184053936CE705FAEDEC1D&_z=z)
 
 ### Copyright
 The population dataset was downloaded from Population Research Bureau. Copyright © 2016, Population Reference Bureau. All rights reserved.
