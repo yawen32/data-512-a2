@@ -74,7 +74,9 @@ The population dataset was downloaded from Population Research Bureau. Copyright
 
 ## API documentation
 A Wikimedia API endpoint for a machine learning system called ORES needs to be used in order to get article quality predictions.
+
 Documentaions and more information of ORES can be found [here](https://www.mediawiki.org/wiki/ORES)
+
 Check Jupyter Notebook file `hcds-a2-bias.ipynb` to see how to use this API.
 
 
