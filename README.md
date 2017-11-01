@@ -63,13 +63,17 @@ Documentaions and more information of ORES can be found [here](https://www.media
 
 To avoid hitting limits in ORES, you may want to split revision IDs into chunks (for example: chunks of 50 or 100), pass each chunk to ORES and then stitch the whole set together.
 
+There's an example of reponse from ORES:
+
+
+
 Check Jupyter Notebook file `hcds-a2-bias.ipynb` to see how to use this API.
 
 
 ## Final data file description
 ** Note: either the population dataset does not have an entry for the equivalent Wikipedia country, or vice versa. Rows that do not have matching data need to be removed.** 
 
-After combining the datasets, there are five fields in the final data file (final_data.csv):
+After combining the datasets, there are five fields in the final data file `final_data.csv`:
 
 * country: country name
   * Field Type: String
@@ -90,8 +94,8 @@ After combining the datasets, there are five fields in the final data file (fina
   Start - Start-class article
 
   Stub - Stub-class article
-
   * Field Type: String
+  
 * population: populations of a variety of countries
   * Field Type: String - numbers are encoded with commas
 
