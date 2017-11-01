@@ -63,8 +63,8 @@ Documentaions and more information of ORES can be found [here](https://www.media
 
 To avoid hitting limits in ORES, you may want to split revision IDs into chunks (for example: chunks of 50 or 100), pass each chunk to ORES and then stitch the whole set together.
 
-There's an example of reponse from ORES:
-
+There's an example of reponses from ORES:
+![hcds-a2-1](https://user-images.githubusercontent.com/26759376/32299402-b7d1ff3e-bf12-11e7-8ce3-cfce8995bf0e.PNG)
 
 
 Check Jupyter Notebook file `hcds-a2-bias.ipynb` to see how to use this API.
