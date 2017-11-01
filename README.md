@@ -11,7 +11,7 @@ The goal of this project is to explore the concept of bias by analyzing the data
 
 This dataset contains data on most English-language Wikipedia articles within the category "Category:Politicians by nationality" and subcategories. 
 
-Documentation can be found on [figshare](https://figshare.com/articles/Untitled_Item/5513449)
+Documentation can be found on [figshare website](https://figshare.com/articles/Untitled_Item/5513449)
 
 Download [here](https://ndownloader.figshare.com/files/9614893)
 
@@ -30,9 +30,13 @@ Download [here](http://www.prb.org/RawData.axd?ind=14&fmt=14&tf=76&loc=34235%2c2
 1. Wikipedia article dataset is licenced under the CC-BY-SA 4.0 license.
 
 For more information on this License, check [CC-BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+
 2. Figshare
+
 [Privacy Policy](https://figshare.com/privacy) and [Terms of Use](https://figshare.com/terms)
+
 3. Population Research Bureau
+
 [Privacy Policy](http://www.prb.org/DataFinder/Topic/~/link.aspx?_id=11A2A1677D184053936CE705FAEDEC1D&_z=z)
 
 ### Copyright
