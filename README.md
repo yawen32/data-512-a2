@@ -1,7 +1,7 @@
 # data-512-a2: Bias in data
 
 ## Goal
-The goal of this project is to explore the concept of bias by analyzing the data of policical articles from different countries on Wikepidia. The project is supposed to perform an analysis in two aspects: existence and quality of policial articles for each country.
+The goal of this project is to explore the concept of bias by analyzing the data of policical articles from different countries on Wikepidia. The project is supposed to perform an analysis from two aspects: existence and quality of policial articles for each country.
 
 ## License of the source data and Wikimedia Foundation terms of use
 1. Wikimedia REST API is licensed under the CC-BY-SA 3.0 and GFDL licenses
@@ -24,16 +24,15 @@ The Pageviews API:
 
 ## Data file description
 ### After removing the rows that do not have matching data, there are five fields in the final data file (final_data.csv):
-#### country:
-Data Type: String
-
-#### article_name:
-The values of this field are integers in two-digit format (MM)
-#### revision_id：
+* country: country names
+Field Type: String
+* article_name:
+Field Type: String
+* revision_id：
 The values of this field are integers which indicate the number of views from the legacy Pagecounts API on both desktop and mobile during given months.
-#### article_quality:
-The values of this field are integers which indicate the number of views from the legacy Pagecounts API on the desktop during given months.
-#### population:
+* article_quality:
+Field Type: String
+* population:
 The values of this field are integers which indicate the number of views from the legacy Pagecounts API on mobile during given months.
 
 
