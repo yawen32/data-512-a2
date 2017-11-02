@@ -72,7 +72,7 @@ There's an example of reponses from ORES:
 ![hcds-a2-1](https://user-images.githubusercontent.com/26759376/32299402-b7d1ff3e-bf12-11e7-8ce3-cfce8995bf0e.PNG)
 
 
-Check Jupyter Notebook file `hcds-a2-bias.ipynb` to see how to use this API.
+Check Jupyter Notebook file `hcds-a2-bias.ipynb` to see how to use this API. The values of article quality predictions are saved in both txt and CSV file. Please check this repository to find these files.
 
 
 ## Final data file description
