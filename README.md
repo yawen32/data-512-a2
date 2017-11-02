@@ -108,6 +108,8 @@ After combining the datasets, there are five fields in the final data file `fina
 
 ## Tables
 
+**Note that data of each table are saved as a CSV file includes in this repository.**
+
 1. 10 highest-ranked countries in terms of number of politician articles as a proportion of country population
 ![table1](https://user-images.githubusercontent.com/26759376/32348924-aa856986-bfd2-11e7-879b-907ab48a1af8.PNG)
 2. 10 lowest-ranked countries in terms of number of politician articles as a proportion of country population
