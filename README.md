@@ -76,7 +76,8 @@ Check Jupyter Notebook file `hcds-a2-bias.ipynb` to see how to use this API.
 
 
 ## Final data file description
-** Note: either the population dataset does not have an entry for the equivalent Wikipedia country, or vice versa. Rows that do not have matching data need to be removed.** 
+
+**Note:** either the population dataset does not have an entry for the equivalent Wikipedia country, or vice versa. Rows that do not have matching data need to be removed.
 
 After combining the datasets, there are five fields in the final data file `final_data.csv`:
 
