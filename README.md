@@ -110,4 +110,10 @@ After combining the datasets, there are five fields in the final data file `fina
 
 
 ## Writeup
-Please check the notebook.
+
+By taking a look at the four tables, I was surprised by a couple of interesting findings. The top 10 countries that have highest proportions of number of articles per population are those with small populations. Some of these countries, such as Tonga, I have ever heard of before. Instead, 10 lowest-ranked countries are the ones with much larger populations, such as India and China.
+
+One finding shouts out to me above all others is North Korea has the highest proportion of high-quality articles. However, it has relative small number of political articles compare to many other countries with much lower percentage of high-quality articles such as United States. This can lead to bias of actual quantity of high-quality articles when considering only the percentage of high-quality articles. Similarly, Guinea-Bissau and Bhutan have only two and three high-quality articles, respectively. It is possible that all high-quality articles of these countries are the work of certain politicans. Therefore, article quality rankings of such countries can not reflect the integral level of quality of political articles due to the small sample sizes.
+
+Since the article data is from English Wikipedia, I’m curious about the results of the same problems but including political articles in other languages. For instance, for the lowest-ranked countries in high-quality articles, will the number of high-quality articles increase significantly if we include articles written in their own languages? Additionally, there are many other reasons can cause bias. The data does not include any information about the authors. Social consequences of bias can result from authors of different races and religions. These factors should be considered when collecting the data.
+
