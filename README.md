@@ -106,8 +106,18 @@ After combining the datasets, there are five fields in the final data file `fina
   * Field Type: String - numbers are encoded with commas
 
 
+## Tables
 
-
+1. 10 highest-ranked countries in terms of number of politician articles as a proportion of country population
+![table1](https://user-images.githubusercontent.com/26759376/32348924-aa856986-bfd2-11e7-879b-907ab48a1af8.PNG)
+2. 10 lowest-ranked countries in terms of number of politician articles as a proportion of country population
+![table2](https://user-images.githubusercontent.com/26759376/32348925-aa9d114e-bfd2-11e7-8eff-8e56881642e0.PNG)
+3. 10 highest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country
+![table3](https://user-images.githubusercontent.com/26759376/32348926-aab2a4fa-bfd2-11e7-891b-306fbbc8c99f.PNG)
+4. 10 lowest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country (percentages are values of zeros)
+![table4](https://user-images.githubusercontent.com/26759376/32348927-aacf506e-bfd2-11e7-9ee8-dbc5510bf96b.PNG)
+5. 10 lowest-ranked countries in terms of number of GA and FA-quality articles as a proportion of all articles about politicians from that country (percentages are values of non-zeros)
+![table5](https://user-images.githubusercontent.com/26759376/32348928-aae629ec-bfd2-11e7-94c1-5e79a48f8e37.PNG)
 
 
 ## Writeup
